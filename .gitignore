@@ -1,0 +1,13 @@
+# Archivos compilados de C
+*.o
+*.exe
+*.out
+hola
+
+# Carpetas del editor
+.vscode/
+.idea/
+
+# Carpetas de compilación
+build/
+dist/
